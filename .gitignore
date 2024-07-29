@@ -1,0 +1,15 @@
+body_*.html
+entries.txt
+
+# python stuff
+__pycache__
+*.pyc
+
+.venv
+.env
+
+# vscode stuff
+.vscode/
+
+# sqlite db
+*.db
